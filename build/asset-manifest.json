@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae77748c.css",
+    "main.js": "/static/js/main.d807da69.js",
+    "static/js/787.ede4eeab.chunk.js": "/static/js/787.ede4eeab.chunk.js",
+    "static/media/pexels-magnus-mueller-2818118-removebg.png": "/static/media/pexels-magnus-mueller-2818118-removebg.5d50230ec37e143da17a.png",
+    "static/media/pexels-david-mcbee-730547.jpg": "/static/media/pexels-david-mcbee-730547.2469d70badb4610fafc2.jpg",
+    "static/media/img1.jpg": "/static/media/img1.6c3c0f76e0f69946fd09.jpg",
+    "static/media/Instagram-Icon.png": "/static/media/Instagram-Icon.7ba95e54c690ef500834.png",
+    "static/media/img2.jpg": "/static/media/img2.85ceea74077544a78333.jpg",
+    "static/media/img4.png": "/static/media/img4.142179e760ee107e327d.png",
+    "static/media/WhatsApp.svg.webp": "/static/media/WhatsApp.svg.e1e45bfafee08430c1a7.webp",
+    "static/media/WhatsApp Image 2023-04-20 at 12.59.24.jpeg": "/static/media/WhatsApp Image 2023-04-20 at 12.59.24.1356d72d022047ca22e6.jpeg",
+    "static/media/calculadora.png": "/static/media/calculadora.81de588dee98eaaa02d1.png",
+    "static/media/legalizacao-empresas.png": "/static/media/legalizacao-empresas.dce6f822304ea70cf451.png",
+    "static/media/145802.png": "/static/media/145802.8859275f91a0f8fc48e9.png",
+    "static/media/gs-clean.png": "/static/media/gs-clean.81bd8971ac074cdf77bb.png",
+    "static/media/receita-logo.png": "/static/media/receita-logo.6085fecbcb0795de4988.png",
+    "index.html": "/index.html",
+    "main.ae77748c.css.map": "/static/css/main.ae77748c.css.map",
+    "main.d807da69.js.map": "/static/js/main.d807da69.js.map",
+    "787.ede4eeab.chunk.js.map": "/static/js/787.ede4eeab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae77748c.css",
+    "static/js/main.d807da69.js"
+  ]
+}
